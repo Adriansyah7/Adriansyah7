@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adriansyah7
-- 👀 I’m interested in Backend Developer
+- 👀 I’m interested in Backend and Frontend Developer  
 - 🌱 I’m currently learning Front End Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
